@@ -1,0 +1,11 @@
+this program runs using the express framework
+to run the program run the following commands 
+
+npm install.... to install the required modules to help run the program. 
+the run npm test to start the program
+
+this will start the server 
+
+go to your browser and load the following site localhost:3000/site.
+
+a page wil be loaded also load localhost:3000/messages a picture will be loaded onto the site 
